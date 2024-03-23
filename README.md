@@ -1,7 +1,6 @@
 # Injury-Prediction-for-competitive-runners-project
 ## INJURY PREDICTION FOR COMPETITIVE RUNNERS
 ### INTRODUCTION
-
 Running is a widely popular sport worldwide, with millions of individuals engaging in various activities such as jogging, running, or trail running. In the United States alone, approximately 60 million people participated in these activities in 2017. However, a concerning statistic reveals that about half of these runners experience injuries annually. Managing these injuries can be challenging and time-consuming, prompting runners to adopt preventive measures such as using rollers, receiving massages, and seeking guidance from professional coaches. Unfortunately, these resources may not be accessible to everyone, making injury prevention a significant concern for many runners.
 
 To address this concern, experts and data scientists are turning to machine learning to predict and prevent injuries in competitive runners. By leveraging advanced algorithms and extensive datasets, machine learning models have the potential to revolutionize injury prevention strategies, ultimately improving the overall well-being of athletes.
@@ -36,3 +35,4 @@ The model's accuracy was influenced mainly by the sampling method used. The over
 To balance the data set, we applied various strategies like sampling, oversampling, and undersampling. Afterward, we evaluated the different balanced datasets using multiple binary classifiers, including KNN, SVM, Bagging. The best performance was achieved using SVM(Oversampling) with an impressive accuracy.
 
 ### DEMO VIDEO
+https://github.com/Narmadha-MK/Injury-Prediction-for-competitive-runners-project/assets/140498149/de21666b-3394-4349-8f9a-6bb73d195378
